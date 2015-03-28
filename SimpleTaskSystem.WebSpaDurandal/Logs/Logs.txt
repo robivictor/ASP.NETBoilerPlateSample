@@ -1,0 +1,48 @@
+DEBUG 2015-03-26 17:46:15,343 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-03-26 17:46:21,344 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2015-03-26 17:46:21,415 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.NHibernate.AbpNHibernateModule, Abp.NHibernate, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,418 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemApplicationModule, SimpleTaskSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemCoreModule, SimpleTaskSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemDataModule, SimpleTaskSystem.NHibernate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemWebApiModule, SimpleTaskSystem.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.WebSpaDurandal.SimpleTaskSystemWebModule, SimpleTaskSystem.WebSpaDurandal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 17:46:21,426 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2015-03-26 17:46:27,137 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 1 classes defines auto mapping attributes
+DEBUG 2015-03-26 17:46:27,138 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SimpleTaskSystem.People.Dtos.PersonDto
+DEBUG 2015-03-26 18:02:56,757 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-03-26 18:03:11,092 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2015-03-26 18:03:11,099 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,102 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,102 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.NHibernate.AbpNHibernateModule, Abp.NHibernate, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,102 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,102 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,102 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,103 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemApplicationModule, SimpleTaskSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,103 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemCoreModule, SimpleTaskSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,103 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemDataModule, SimpleTaskSystem.NHibernate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,103 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemWebApiModule, SimpleTaskSystem.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,104 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.WebSpaDurandal.SimpleTaskSystemWebModule, SimpleTaskSystem.WebSpaDurandal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:03:11,109 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2015-03-26 18:03:12,821 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 1 classes defines auto mapping attributes
+DEBUG 2015-03-26 18:03:12,821 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SimpleTaskSystem.People.Dtos.PersonDto
+DEBUG 2015-03-26 18:06:39,278 [11   ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-03-26 18:06:45,766 [11   ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2015-03-26 18:06:45,775 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,778 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,778 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.NHibernate.AbpNHibernateModule, Abp.NHibernate, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,779 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,779 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,779 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.5.5.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,779 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemApplicationModule, SimpleTaskSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,779 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemCoreModule, SimpleTaskSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,780 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemDataModule, SimpleTaskSystem.NHibernate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,780 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.SimpleTaskSystemWebApiModule, SimpleTaskSystem.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,780 [11   ] Abp.Modules.AbpModuleManager             - Loaded module: SimpleTaskSystem.WebSpaDurandal.SimpleTaskSystemWebModule, SimpleTaskSystem.WebSpaDurandal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-03-26 18:06:45,787 [11   ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2015-03-26 18:06:46,606 [11   ] Abp.AutoMapper.AbpAutoMapperModule       - Found 1 classes defines auto mapping attributes
+DEBUG 2015-03-26 18:06:46,606 [11   ] Abp.AutoMapper.AbpAutoMapperModule       - SimpleTaskSystem.People.Dtos.PersonDto
